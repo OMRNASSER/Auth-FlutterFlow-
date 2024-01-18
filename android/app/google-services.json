@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "175365345681",
+    "project_id": "tinder-udemy-course-3cff1",
+    "storage_bucket": "tinder-udemy-course-3cff1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175365345681:android:9f0e2071650fdc33dd0a30",
+        "android_client_info": {
+          "package_name": "com.mycompany.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175365345681-5hftr55ln50tjk579eahviqiscipr2ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTbZVLa-vgMIbZKE_xfunTcTtDIjLUv14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175365345681-5hftr55ln50tjk579eahviqiscipr2ts.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "175365345681-etf32pki2eusvk8a34h7pd44m181q5ri.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.udemycoursetinder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175365345681:android:a8fc57e112e603c0dd0a30",
+        "android_client_info": {
+          "package_name": "com.mycompany.udemycoursetinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175365345681-da2ivmgrpj09bupv6h87c9n4afj8msac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.udemycoursetinder",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "175365345681-5hftr55ln50tjk579eahviqiscipr2ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTbZVLa-vgMIbZKE_xfunTcTtDIjLUv14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175365345681-5hftr55ln50tjk579eahviqiscipr2ts.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "175365345681-etf32pki2eusvk8a34h7pd44m181q5ri.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.udemycoursetinder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>175365345681-uqrejlobc8uor2801e9g7n9dcu6k783m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.175365345681-uqrejlobc8uor2801e9g7n9dcu6k783m</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>175365345681-da2ivmgrpj09bupv6h87c9n4afj8msac.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDj3TrmogTRgCrKW6LTKMZGd3ZbSwxXVDY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>175365345681</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.auth</string>
+	<key>PROJECT_ID</key>
+	<string>tinder-udemy-course-3cff1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tinder-udemy-course-3cff1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:175365345681:ios:a6c2081ab372d45cdd0a30</string>
+</dict>
+</plist>
